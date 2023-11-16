@@ -1,0 +1,5 @@
+C:\Users\Bear\Desktop\KiyoshukiApp\CommissionCalculator.exe
+C:\Users\Bear\Desktop\KiyoshukiApp\CommissionCalculator.dll
+C:\Users\Bear\Desktop\KiyoshukiApp\CommissionCalculator.deps.json
+C:\Users\Bear\Desktop\KiyoshukiApp\CommissionCalculator.runtimeconfig.json
+C:\Users\Bear\Desktop\KiyoshukiApp\CommissionCalculator.pdb

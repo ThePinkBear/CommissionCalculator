@@ -1,0 +1,17 @@
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\bin\Release\net7.0-windows\CommissionCalculator.exe
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\bin\Release\net7.0-windows\CommissionCalculator.deps.json
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\bin\Release\net7.0-windows\CommissionCalculator.runtimeconfig.json
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\bin\Release\net7.0-windows\CommissionCalculator.dll
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\bin\Release\net7.0-windows\CommissionCalculator.pdb
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\obj\Release\net7.0-windows\CommissionCalculator.Form1.resources
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\obj\Release\net7.0-windows\CommissionCalculator.Properties.Resources.resources
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\obj\Release\net7.0-windows\CommissionCalculator.csproj.GenerateResource.cache
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\obj\Release\net7.0-windows\CommissionCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\obj\Release\net7.0-windows\CommissionCalculator.AssemblyInfoInputs.cache
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\obj\Release\net7.0-windows\CommissionCalculator.AssemblyInfo.cs
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\obj\Release\net7.0-windows\CommissionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\obj\Release\net7.0-windows\CommissionCalculator.dll
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\obj\Release\net7.0-windows\refint\CommissionCalculator.dll
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\obj\Release\net7.0-windows\CommissionCalculator.pdb
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\obj\Release\net7.0-windows\CommissionCalculator.genruntimeconfig.cache
+C:\Users\Bear\Documents\My Repos\KainApp\CommissionCalculator\obj\Release\net7.0-windows\ref\CommissionCalculator.dll
